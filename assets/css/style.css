@@ -1,0 +1,26 @@
+* {
+    margin:0px;
+    padding:0px;
+    box-sizing:border-box;
+}
+.container {
+    max-width:1150px;
+    margin:0 auto;
+}
+.header{
+    display:flex;
+    align-items: center;
+    justify-content:space-between;
+}
+.menu {
+    display:flex;
+    list-style:none;
+    
+}
+.menu a{
+    text-decoration: none;
+}
+li {
+    margin:0 20px;
+   
+}
